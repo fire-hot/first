@@ -1,6 +1,6 @@
 package test;
 
-public class test {
+public class Test {
 	public int sum(int x,int y) {
 		return x+y;		
 	}
@@ -9,7 +9,7 @@ public class test {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Test test = new Test();
 	}
 
 }
