@@ -11,6 +11,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		Test test = new Test();
 		test.sum(1, 2);
+		test.show("aa");
 	}
 
 }
